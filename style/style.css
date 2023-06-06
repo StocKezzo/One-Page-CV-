@@ -1,0 +1,31 @@
+body{
+   background: linear-gradient(120deg, rgba(177, 22, 153, 0.8) 0%, rgba(255, 0, 0, 0.8) 100%), #FFFFFF;
+   margin: 3em;
+   font-weight: bold;
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   color: #FFFFFF;
+   font-size: 1rem;
+ }
+
+h2{
+    border-bottom: 1.5px solid black;
+    font-size: 3rem;
+    padding-bottom: 1em;
+    padding-top: 1em;
+}
+dd{
+    font-style: italic;
+}
+section > div{
+    float: left;
+    width: 45%;
+    padding: 1em;
+    margin: 0.5em;
+}
+h1{
+    font-size: 5rem;
+}
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
